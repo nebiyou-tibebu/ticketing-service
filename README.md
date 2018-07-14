@@ -1,3 +1,5 @@
+# Ticketing Service
+
 A basic ticketing service application.
 
 Assume a venue like so:
@@ -12,18 +14,18 @@ Assume a venue like so:
             z1 ......... z100
 
 
-# Features
+## Features
 
 
 The ticketing service agent accepts requests from a customer for a given number of seats and returns the best seats, if any are available.
 
 
-# Design Choices
+## Design Choices
 
 This is a simple command line application. It can also accept client connections via tcp. There is a client project ticketing-service-client.
 
 
-# How Tos
+## How Tos
 
 
 
